@@ -1,0 +1,118 @@
+<mjml>
+  <mj-head>
+    <mj-title>Time for a visit</mj-title>
+  </mj-head>
+  <mj-body background-color="lightblue">
+    <mj-raw>
+      <!-- Header -->
+    </mj-raw>
+    <mj-section padding="0">
+      <mj-column padding="0">
+        <mj-image
+          padding="0"
+          src="https://www.stevenme.com/email-images/WCDentalReminder/DentistHeader-2.png"
+          alt="Time for dental checkup at West Covina Dentistry"
+        />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!--Greeting Line  -->
+    </mj-raw>
+    <mj-section background-color="white" padding="30px 15px">
+      <mj-column
+        background-color="#D2E8FF"
+        padding="20px"
+        border-radius="10px"
+        width="90%"
+      >
+        <mj-text
+          padding="20px 10px"
+          color="#205387"
+          align="center"
+          font-size="22px"
+          line-height="1.3"
+        >
+          <b>Hi Daniel</b>, <br /><br />It's been a while since we last saw
+          you.<br /><br />
+          Just a friendly reminder &mdash; it's time for your 6-month checkup
+          and cleaning at West Covina Dentistry!<br /><br />
+          Regular checkups help keep your smile healthy, bright, and confident.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Call To Action Button -->
+    </mj-raw>
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text
+          padding="10px 10px"
+          color="#205387"
+          align="center"
+          font-size="22px"
+        >
+          Let's Keep your smile shining!
+        </mj-text>
+        <mj-button
+          background-color="#3db2ff"
+          color="#ffffff"
+          font-size="18px"
+          border-radius="10px"
+          href="https://www.stevenme.com"
+        >
+          Schedule My Appointment
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- reassurance footer -->
+    </mj-raw>
+    <mj-section
+      background-color="white"
+      border-top="1px solid gray"
+      padding="10px "
+    >
+      <mj-column>
+        <mj-text
+          align="center"
+          padding="20px 10px"
+          color="#205387"
+          font-size="18px"
+          line-height="1.3"
+        >
+          Thank you for trusting us with your smile.<br /><br />
+          We look forward to seeing you soon!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- FOoter -->
+    </mj-raw>
+    <mj-section background-color="#f7f7f7">
+      <mj-column width="90%">
+        <mj-text padding="10px" align="center" color="#7a7a7a" font-size="14px">
+          West Covina Dentistry<br />
+          123 Main Street<br />
+          West Covina, CA 91722<br />
+          (626)329-1203<br />
+          <a
+            style="
+              text-decoration: none;
+              color: #3db2ff;
+              display: block;
+              padding: 10px 0;
+              font-size: 14px;
+            "
+            href="https://www.stevenme.com"
+            >West Covina Dentistry</a
+          ><br /><br />
+          <a
+            href="https://unsubscribe1.netlify.app"
+            style="color: #7a7a7a; text-decoration: underline; font-size: 12px"
+            >Click here to Unsubscribe</a
+          >
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
